@@ -1,22 +1,35 @@
 [
   {
+    "name": "logo-smartok.png",
     "url": "https://xn----7sb5afmkel.xn--p1ai/wp-content/uploads/2025/01/img1.png",
-    "name": "logo-smartok.png"
+    "type": "original_company_logo"
   },
   {
-    "url": "https://xn----7sb5afmkel.xn--p1ai/wp-content/uploads/2026/10/main.jpg",
-    "name": "hero-main.jpg"
+    "name": "phone-photo-v2.png",
+    "type": "AI-generated illustrative photograph",
+    "generator": "OpenAI ImageGen (built-in)",
+    "date": "2026-10-29",
+    "subject": "IP desk phone; device design based on the integration image"
   },
   {
-    "url": "https://xn----7sb5afmkel.xn--p1ai/wp-content/uploads/2026/10/laptop.jpg",
-    "name": "laptop-original.jpg"
+    "name": "integration-photo-v2.png",
+    "type": "AI-generated illustrative photograph",
+    "generator": "OpenAI ImageGen (built-in)",
+    "date": "2026-10-29",
+    "subject": "Office laptop and IP telephone"
   },
   {
-    "url": "https://xn----7sb5afmkel.xn--p1ai/wp-content/uploads/2026/10/phone.jpg",
-    "name": "phone-original.jpg"
+    "name": "support-photo-v2.png",
+    "type": "AI-generated illustrative photograph",
+    "generator": "OpenAI ImageGen (built-in)",
+    "date": "2026-10-29",
+    "subject": "Communications headset in an office"
   },
   {
-    "url": "https://xn----7sb5afmkel.xn--p1ai/wp-content/uploads/2026/10/workplace.jpg",
-    "name": "workplace-original.jpg"
+    "name": "fiber-photo-v2.png",
+    "type": "AI-generated illustrative photograph",
+    "generator": "OpenAI ImageGen (built-in)",
+    "date": "2026-10-29",
+    "subject": "Optical glass fibers"
   }
 ]
